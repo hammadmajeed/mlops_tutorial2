@@ -1,0 +1,5 @@
+outs:
+- md5: e86eae41dbf2357035c7162828c366f2
+  size: 7900
+  hash: md5
+  path: by_region.png
